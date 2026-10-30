@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Practical-9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|e:\\practical-9\\totals.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|solutionrelative:totals.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|e:\\practical-9\\students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|solutionrelative:students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|e:\\practical-9\\placements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|solutionrelative:placements.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|E:\\Practical-9\\placementdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|solutionrelative:placementdashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|e:\\practical-9\\totals.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|solutionrelative:totals.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|e:\\practical-9\\placements.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|solutionrelative:placements.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|e:\\practical-9\\students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|solutionrelative:students.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|E:\\Practical-9\\placementdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|solutionrelative:placementdashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|e:\\practical-9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{75F02940-AB0A-4BBE-9134-2AD9E04B1EE3}|Practical-9.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Totals.aspx.cs",
+              "DocumentMoniker": "E:\\Practical-9\\Totals.aspx.cs",
+              "RelativeDocumentMoniker": "Totals.aspx.cs",
+              "ToolTip": "E:\\Practical-9\\Totals.aspx.cs",
+              "RelativeToolTip": "Totals.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T17:49:22.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Totals.aspx",
+              "DocumentMoniker": "E:\\Practical-9\\Totals.aspx",
+              "RelativeDocumentMoniker": "Totals.aspx",
+              "ToolTip": "E:\\Practical-9\\Totals.aspx",
+              "RelativeToolTip": "Totals.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-28T17:47:54.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlacementDashboard.aspx",
+              "DocumentMoniker": "E:\\Practical-9\\PlacementDashboard.aspx",
+              "RelativeDocumentMoniker": "PlacementDashboard.aspx",
+              "ToolTip": "E:\\Practical-9\\PlacementDashboard.aspx",
+              "RelativeToolTip": "PlacementDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-28T13:42:28.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Placements.aspx",
+              "DocumentMoniker": "E:\\Practical-9\\Placements.aspx",
+              "RelativeDocumentMoniker": "Placements.aspx",
+              "ToolTip": "E:\\Practical-9\\Placements.aspx",
+              "RelativeToolTip": "Placements.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-28T17:47:40.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.aspx",
+              "DocumentMoniker": "E:\\Practical-9\\Students.aspx",
+              "RelativeDocumentMoniker": "Students.aspx",
+              "ToolTip": "E:\\Practical-9\\Students.aspx",
+              "RelativeToolTip": "Students.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-28T17:47:28.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlacementDashboard.aspx.cs",
+              "DocumentMoniker": "E:\\Practical-9\\PlacementDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "PlacementDashboard.aspx.cs",
+              "ToolTip": "E:\\Practical-9\\PlacementDashboard.aspx.cs",
+              "RelativeToolTip": "PlacementDashboard.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T13:43:08.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Students.aspx.cs",
+              "DocumentMoniker": "E:\\Practical-9\\Students.aspx.cs",
+              "RelativeDocumentMoniker": "Students.aspx.cs",
+              "ToolTip": "E:\\Practical-9\\Students.aspx.cs",
+              "RelativeToolTip": "Students.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T17:48:44.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Placements.aspx.cs",
+              "DocumentMoniker": "E:\\Practical-9\\Placements.aspx.cs",
+              "RelativeDocumentMoniker": "Placements.aspx.cs",
+              "ToolTip": "E:\\Practical-9\\Placements.aspx.cs",
+              "RelativeToolTip": "Placements.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwDQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T17:49:04.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\Practical-9\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "E:\\Practical-9\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-28T13:38:40.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\SQLQuery1.sql",
+              "ToolTip": "SQLQuery1.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-28T13:34:42.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
